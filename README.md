@@ -8,3 +8,5 @@ The goal is to design, run and analyze an AB experiment that tests two versions 
 The control is the blue submit button, which is the current version. The treatment is the green submit buton.
 
 We have to run the AB test to decide which version to use based on the AB test results.
+
+The pretest and test are the two excel data files. AB_Testing_Code is the google collab python file that contains the code for this AB test.
